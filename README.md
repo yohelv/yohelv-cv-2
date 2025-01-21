@@ -63,7 +63,7 @@ I have over 15 years of extensive experience in networking infrastructure and IS
 
 # Certifications:
 
-* [Cisco Ce÷®rtified Network Associate](https://www.credly.com/badges/97cfe41e-2d2a-46fd-88ff-7b3a00390c39)
+* [Cisco Certified Network Associate](https://www.credly.com/badges/97cfe41e-2d2a-46fd-88ff-7b3a00390c39)
   * Date: 2024-04
   * Issuer: [CISCO](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
     
