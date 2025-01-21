@@ -1,8 +1,7 @@
 # Yohel Velazquez
 
 Network administrator with more than 15 years of experience
-
-## [[YV/Contact-Information]]
+[Contact-Information](Contact.md)
 
 ## About Me
 I have over 15 years of extensive experience in networking infrastructure and ISP services. Currently, I work as a network specialist at Evertec INC, where I manage Next-Generation Firewalls and related projects.
