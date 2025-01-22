@@ -7,13 +7,10 @@ Network administrator with more than 15 years of experience
 I have over 15 years of extensive experience in networking infrastructure and ISP services. Currently, I work as a network specialist at Evertec INC, where I manage Next-Generation Firewalls and related projects.
 
 # Work Experiance:
-
-<div align="center">
    
 ## [Evertec](https://www.evertecinc.com)
-|Network Specialist | 2021 - Actual |
+|Network Specialist | <div align="center">2021 - Actual</div> |
 |:------------------|--------------:|
-</div>
 
 * Managed Next-Generation Firewalls (**[NGFWs](https://en.wikipedia.org/wiki/Next-generation_firewall)**):* This involves handling: Access control lists (ACLs), implementing security policies, performing Web filtering, DNS filtering, Applications filtering and conducting other threat prevention measures to ensure robust network protection.
 * Troubleshooting Network Issues: This encompasses diagnosing and resolving network problems or outages, ensuring minimal disruption to network services and maintaining optimal performance.
