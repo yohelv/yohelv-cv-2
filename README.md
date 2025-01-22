@@ -11,11 +11,7 @@ I have over 15 years of extensive experience in networking infrastructure and IS
 |Network Specialist | 2021 - Actual|
 |:------------------|--------------:|
 
-* Managed Next-Generation Firewalls (**[NGFWs](https://en.wikipedia.org/wiki/Next-generation_firewall)**): This involves handling:
-  * Access control lists (ACLs)
-  * Implementing security policies
-  * Performing Web filtering, DNS filtering, Applications filtering and others.
-  * Conducting other threat prevention measures to ensure robust network protection.
+* Managed Next-Generation Firewalls (**[NGFWs](https://en.wikipedia.org/wiki/Next-generation_firewall)**):* This involves handling: Access control lists (ACLs), implementing security policies, performing Web filtering, DNS filtering, Applications filtering and conducting other threat prevention measures to ensure robust network protection.
 * Troubleshooting Network Issues: This encompasses diagnosing and resolving network problems or outages, ensuring minimal disruption to network services and maintaining optimal performance.
 * Security Policy Management for Audits: This includes generating and managing reports on security policies to facilitate auditing processes, ensuring compliance with regulatory requirements and organizational standards.
 * Auditing and Enhancing Network Security Policies: This involves regularly reviewing and improving security policies to bolster network defenses, identifying vulnerabilities, and implementing necessary updates for enhanced security.
