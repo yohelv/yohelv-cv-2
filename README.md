@@ -8,7 +8,8 @@ I have over 15 years of extensive experience in networking infrastructure and IS
 
 # Work Experiance:
 ## [Evertec](https://www.evertecinc.com)
-<p align="left">Network Specialist</p> <p align="right">2021 - Actual</p>
+|Network Specialist | <p align="right">2021 - Actual</p> |
+|:------------------|--------------:|
 
 * Managed Next-Generation Firewalls (**[NGFWs](https://en.wikipedia.org/wiki/Next-generation_firewall)**):* This involves handling: Access control lists (ACLs), implementing security policies, performing Web filtering, DNS filtering, Applications filtering and conducting other threat prevention measures to ensure robust network protection.
 * Troubleshooting Network Issues: This encompasses diagnosing and resolving network problems or outages, ensuring minimal disruption to network services and maintaining optimal performance.
