@@ -20,7 +20,6 @@ I have over 15 years of extensive experience in networking infrastructure and IS
 ## [AT&T](https://www.business.att.com/learn/top-voices/one-unifies-its-business-with-an-att-mpls-vpn-solution.html)
 | Specialist Network Support | 2011 - 2021 |
 | :------------------ |--------------:|
-
 * Tier 2 Support for Tier 1 Engineers: Provide advanced technical assistance to Tier 1 engineers across network, VoIP, security, and other services, helping to resolve complex issues.
 * Layer 3 Configuration in MPLS and BGP Networks: Set up and manage Layer 3 network protocols within MPLS environments and BGP Internet networks to ensure efficient data routing.
 * Redundant Router Services and Security Configurations: Configure routers for redundancy, virtual gateways, and implement various BGP configurations and security measures to enhance network resilience and performance.
@@ -31,7 +30,6 @@ I have over 15 years of extensive experience in networking infrastructure and IS
 ## [Neptuno Networks](https://www.neptunopr.com)
 | Provisioning Engineer | 2011 - 2011 |
 | :------------------ |--------------:|
-
 * Provision of antenna WIMAX for layer 2 transport (last mile).
 * Provision of circuit layer 2 and layer 3 in an MPLS network.
 * Configure routers for customers with VOIP, DATA, Internet and others services.
@@ -44,7 +42,6 @@ I have over 15 years of extensive experience in networking infrastructure and IS
 ## [Evertec](https://www.evertecinc.com)
 | Network Operation Center | 2007 - 2011 |
 | :------------------ |--------------:|
-
 * Monitor transactions for credit-cards, ATM and POS transactions.
 * Monitor communications in T1, ethernet and fiber networks.
 * Assist clients in host to host communications.
